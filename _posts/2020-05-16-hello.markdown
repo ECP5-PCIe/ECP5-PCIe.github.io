@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Introduction to ECP5-PCIe"
+date:   2020-05-16 19:13:02 +0200
+comment_issue_id: 1
+categories: GSoC
+---
+This is the blog about the development of an open-source PCIe interface written in nMigen for the ECP5 FPGA.
+The development is happening in [this][git] repository.
+
+[comments][comments]
+
+[git]: https://github.com/ECP5-PCIe/ECP5-PCIe
+[Comments]: https://github.com/ECP5-PCIe/ECP5-PCIe.github.io/issues/2
