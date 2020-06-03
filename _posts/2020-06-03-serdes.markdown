@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Progress until now"
+title:  "SERDES Progress"
 date:   2020-06-03 23:40:15 +0200
 comment_issue_id: 1
 categories: GSoC
