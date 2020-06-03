@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Progress until now"
-date:   2020-05-16 19:30:15 +0200
+date:   2020-06-01 19:30:15 +0200
 comment_issue_id: 1
 categories: GSoC
 ---
