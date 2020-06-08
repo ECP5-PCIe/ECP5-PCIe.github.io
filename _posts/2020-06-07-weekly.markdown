@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Yumewatari commit f61133d working in nMigen!"
+title:  "Weekly Jun-1"
 date:   2020-06-07 23:40:15 +0200
 comment_issue_id: 1
 categories: GSoC
@@ -17,4 +17,4 @@ The characters received by the VERSA also seem different depending on which slot
 [comments][comments]
 
 [git]: https://github.com/ECP5-PCIe/ECP5-PCIe
-[Comments]: https://github.com/ECP5-PCIe/ECP5-PCIe.github.io/issues/8
+[Comments]: https://github.com/ECP5-PCIe/ECP5-PCIe.github.io/issues/9
