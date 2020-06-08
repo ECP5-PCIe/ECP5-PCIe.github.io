@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "UART Debugger"
-date:   2020-06-03 23:40:15 +0200
+date:   2020-06-04 23:40:15 +0200
 comment_issue_id: 1
 categories: GSoC
 ---

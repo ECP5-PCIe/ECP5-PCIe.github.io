@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Yumewatari commit f61133d working!"
-date:   2020-06-03 23:40:15 +0200
+date:   2020-06-06 23:40:15 +0200
 comment_issue_id: 1
 categories: GSoC
 ---
