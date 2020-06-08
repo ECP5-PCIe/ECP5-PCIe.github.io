@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Yumewatari commit f61133d working in nMigen!"
+date:   2020-06-07 23:40:15 +0200
+comment_issue_id: 1
+categories: GSoC
+---
+- Receiving PCIe symbols in nMigen was accomplished
+	- Including a SKP ordered set
+- A UART debugger has been written, which can store a configured number of samples and then transmit them over UART in hexadecimal format
+- The serdes class from an older commit to Yumewatari was translated to nMigen and slightly modified to use the UART debugger module and translate received hex data to control codes and D codes
+
+The PCIe slots on the test PC behave kinda weird, but the x16 slot was observed working with a x8 card inside of it.
+It seemingly has no ground on either of the PRSNT contacts (A1 and B17) in the x16 slot, which is required for the ispCLOCK to use the PCIe refclk, though the J4 header on the Versa board can be configured to connect the PRSNT on the Versa to ground.
+The characters received by the VERSA also seem different depending on which slot it is plugged into.
+
+[comments][comments]
+
+[git]: https://github.com/ECP5-PCIe/ECP5-PCIe
+[Comments]: https://github.com/ECP5-PCIe/ECP5-PCIe.github.io/issues/8
