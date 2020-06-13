@@ -5,9 +5,9 @@ date:   2020-06-13 23:40:15 +0200
 comment_issue_id: 1
 categories: GSoC
 ---
-- TS sequences are being received and can be sent
-- LTSSM implementation started
-- RX now in separate class
+- LTSSM implementation from Yumewatari translated to nMigen
+- Some testing with it
+- L0 and Recovery states still need to be implemented
 
 [comments][comments]
 
