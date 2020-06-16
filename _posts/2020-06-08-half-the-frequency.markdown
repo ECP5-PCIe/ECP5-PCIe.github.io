@@ -10,6 +10,7 @@ categories: GSoC
 	- Only implemented for a test, not yet full functionality
 	- Aligner aligns COM symbol to first of two gearbox outputs
 
+[commit](https://github.com/ECP5-PCIe/ECP5-PCIe/commit/169585e26d098baa289bef4c41538d6fac457346)
 [comments][comments]
 
 [git]: https://github.com/ECP5-PCIe/ECP5-PCIe

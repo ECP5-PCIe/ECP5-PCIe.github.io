@@ -8,6 +8,7 @@ categories: GSoC
 - The serdes classes from Yumewatari compile
 - Writing of a test for the serdes has begun
 
+[commit](https://github.com/ECP5-PCIe/ECP5-PCIe/commit/6b5bc4b458beb2a5f9ad0a242d036580590780df)
 [comments][comments]
 
 [git]: https://github.com/ECP5-PCIe/ECP5-PCIe
