@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Weekly Jun-2"
+date:   2020-06-15 23:40:15 +0200
+comment_issue_id: 1
+categories: GSoC
+---
+- LTSSM implementation has started
+	- Sometimes weird symbols are received, for example D10.2 COM repeating over and over
+	- FSM sometimes seemingly gets stuck
+- Can read TS ordered sets
+
+
+[comments][comments]
+
+[git]: https://github.com/ECP5-PCIe/ECP5-PCIe
+[Comments]: https://github.com/ECP5-PCIe/ECP5-PCIe.github.io/issues/11
