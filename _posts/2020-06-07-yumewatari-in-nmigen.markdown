@@ -11,6 +11,7 @@ categories: GSoC
 - The x16 slot responds differently than the x1 slot and the returned data responds to different data being sent.
 	- SKP ordered sets (COM, SKP, SKP, SKP) have been observed
 
+[commit](https://github.com/ECP5-PCIe/ECP5-PCIe/commit/8c670e251d7bc558948ca38dfb3db274dd5d2c80)
 [comments][comments]
 
 [git]: https://github.com/ECP5-PCIe/ECP5-PCIe
