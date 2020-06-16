@@ -9,7 +9,8 @@ categories: GSoC
 - Timeout to UART has been added
 - Further UART debug options added to the LTSSM test case, for example getting a list of when which state transitions happened
 
+[commit](https://github.com/ECP5-PCIe/ECP5-PCIe/commit/ad8205aa7e05caf7ef8d758fe5ceb487fee20688)
 [comments][comments]
 
 [git]: https://github.com/ECP5-PCIe/ECP5-PCIe
-[Comments]: https://github.com/ECP5-PCIe/ECP5-PCIe.github.io/issues/11
+[comments]: https://github.com/ECP5-PCIe/ECP5-PCIe.github.io/issues/13

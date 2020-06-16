@@ -14,4 +14,4 @@ categories: GSoC
 [comments][comments]
 
 [git]: https://github.com/ECP5-PCIe/ECP5-PCIe
-[Comments]: https://github.com/ECP5-PCIe/ECP5-PCIe.github.io/issues/11
+[Comments]: https://github.com/ECP5-PCIe/ECP5-PCIe.github.io/issues/12
