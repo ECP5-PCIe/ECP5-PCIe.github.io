@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Further work on the LTSSM state machine"
-date:   2020-06-13 23:40:15 +0200
+date:   2020-06-16 23:40:15 +0200
 comment_issue_id: 1
 categories: GSoC
 ---
