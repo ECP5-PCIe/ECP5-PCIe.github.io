@@ -2,7 +2,6 @@
 layout: post
 title:  "RX, TX, LTSSM state machines"
 date:   2020-06-12 23:40:15 +0200
-comment_issue_id: 1
 categories: GSoC
 ---
 - TS sequences are being received and can be sent
@@ -13,4 +12,4 @@ categories: GSoC
 [comments][comments]
 
 [git]: https://github.com/ECP5-PCIe/ECP5-PCIe
-[Comments]: https://github.com/ECP5-PCIe/ECP5-PCIe.github.io/issues/11
+[Comments]: https://github.com/ECP5-PCIe/ECP5-PCIe.github.io/issues/14
