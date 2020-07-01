@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Weekly Jun-2"
+date:   2020-07-01 23:40:15 +0200
+categories: GSoC
+---
+- LTSSM implementation revisions
+	- LTSSM gets to Configuration.Idle
+		- Though further work is required on that, since the test computer sends weird data afterwards instead of IDL symbols
+- LTSSM can configure LINK and LANE
+	- It doesn't get stuck anymore, besides in Polling.Active.TS, after which configuration continues
+
+
+[comments][comments]
+
+[git]: https://github.com/ECP5-PCIe/ECP5-PCIe
+[Comments]: https://github.com/ECP5-PCIe/ECP5-PCIe.github.io/issues/21
