@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Weekly Jul-2"
+date:   2020-07-01 23:40:15 +0200
+categories: GSoC
+---
+- LTSSM was further tested
+	- It was found that the domain crossing sometimes doesn't work and that it should be able to run the gateware during test PC boot
+	- A ROCKPro64 was ordered for testing
+	- More solid domain crossing implementation planned
+The FFSynchronizer doesn't like working at certain phases between two clock domains, likely garbling the symbol.
+A CDC implementation using an AsyncFIFO should be tested.
+
+
+
+[comments][comments]
+
+[git]: https://github.com/ECP5-PCIe/ECP5-PCIe
+[Comments]: https://github.com/ECP5-PCIe/ECP5-PCIe.github.io/issues/23
