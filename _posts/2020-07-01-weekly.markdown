@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Weekly Jun-2"
+title:  "Weekly Jul-1"
 date:   2020-07-01 23:40:15 +0200
 categories: GSoC
 ---
