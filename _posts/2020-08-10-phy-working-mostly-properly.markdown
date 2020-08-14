@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fixed PHY cdc, now working fine a significant portion of the time"
-date:   2020-06-10 23:40:15 +0200
+date:   2020-08-10 23:40:15 +0200
 categories: GSoC
 ---
 - Changed gearing FIFO drive clock to FF_EBRD_CLK
@@ -19,4 +19,4 @@ categories: GSoC
 [commit][https://github.com/ECP5-PCIe/ECP5-PCIe/commit/f499fec3af2645410d2d423f39c31d5500bdad35]
 
 [git]: https://github.com/ECP5-PCIe/ECP5-PCIe
-[Comments]: https://github.com/ECP5-PCIe/ECP5-PCIe.github.io/issues/TODO
+[Comments]: https://github.com/ECP5-PCIe/ECP5-PCIe.github.io/issues/34
