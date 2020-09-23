@@ -1,4 +1,4 @@
-23 J---
+---
 layout: post
 title:  "Development Report"
 date:   2020-09-23 23:40:15 +0200
