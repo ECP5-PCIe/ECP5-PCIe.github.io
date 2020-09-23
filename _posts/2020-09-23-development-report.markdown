@@ -4,7 +4,10 @@ title:  "Development Report"
 date:   2020-09-23 23:40:15 +0200
 categories: GSoC
 ---
-This project focuses on implementing PCIe Gen1 x1.
+
+This project is about implementing PCIe on the ECP5 FPGA.
+For now the focus is on PCIe Gen1 x1.
+
 The PCIe protocol is composed of three layers.
 First comes the physical layer, composed of the SERDES (the electrical sub-block) and the LTSSM (the logical sub-block)
 Communication happens over a link which is composed of a number of lanes.
