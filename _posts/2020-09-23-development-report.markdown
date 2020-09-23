@@ -25,7 +25,4 @@ For managing credits and reporting TLP errors it uses Data Link Layer Packets.
 A DLLP transmitter and receiver were made, which can send and receive DLLP packets.
 TLPs were not implemented yet.
 
-[comments][comments]
-
 [git]: https://github.com/ECP5-PCIe/ECP5-PCIe
-[Comments]: https://github.com/ECP5-PCIe/ECP5-PCIe.github.io/issues/39
